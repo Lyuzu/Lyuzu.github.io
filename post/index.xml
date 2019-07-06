@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on A Hugo website</title>
+    <link>/post/</link>
+    <description>Recent content in Posts on A Hugo website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>first</title>
+      <link>/2019/07/06/first/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/06/first/</guid>
+      <description>my tryplot(c(1:10))</description>
+    </item>
+    
+    <item>
+      <title>浙大</title>
+      <link>/2019/07/06/%E6%B5%99%E5%A4%A7/</link>
+      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/07/06/%E6%B5%99%E5%A4%A7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>desire</title>
+      <link>/2018/07/06/desire/</link>
+      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/07/06/desire/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
