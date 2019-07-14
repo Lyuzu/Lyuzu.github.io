@@ -6,36 +6,27 @@
     <description>Recent content in R Markdown on A Hugo website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 06 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Jul 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/r-markdown/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>first</title>
-      <link>/2019/07/06/first/</link>
-      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <title>WY</title>
+      <link>/2019/07/14/wy/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/07/06/first/</guid>
-      <description>my tryplot(c(1:10))</description>
+      <guid>/2019/07/14/wy/</guid>
+      <description>给文明以岁月，而不是给岁月以文明</description>
     </item>
     
     <item>
-      <title>浙大</title>
-      <link>/2019/07/06/%E6%B5%99%E5%A4%A7/</link>
-      <pubDate>Sat, 06 Jul 2019 00:00:00 +0000</pubDate>
+      <title>Why</title>
+      <link>/2019/07/14/why/</link>
+      <pubDate>Sun, 14 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/07/06/%E6%B5%99%E5%A4%A7/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>desire</title>
-      <link>/2018/07/06/desire/</link>
-      <pubDate>Fri, 06 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>/2018/07/06/desire/</guid>
-      <description></description>
+      <guid>/2019/07/14/why/</guid>
+      <description>给文明以岁月，而不是给岁月以文明</description>
     </item>
     
   </channel>
